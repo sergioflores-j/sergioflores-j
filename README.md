@@ -3,12 +3,12 @@
 :computer: Software Engineer at Adapcon Software & Inovação
 <br>:house_with_garden: Brazilian, Based in Jaraguá do Sul, SC
 
-<br>🌱 I’m currently learning Next.JS, React and GraphQL
+<br>🌱 Currently learning Next.JS, React and GraphQL
 
 #### How to reach me
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/sergioflores-j)](https://github.com/sergioflores-j)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergio-flores17/?locale=en_US)](https://www.linkedin.com/in/sergio-flores17/?locale=en_US)
-[![Email Badge](https://img.shields.io/badge/-Gmail-EEE?style=flat-square&logo=Gmail&link=sergio.flores.junior17@gmail.com)](sergio.flores.junior17@gmail.com)
+[![Email Badge](https://img.shields.io/badge/-Gmail-EEE?style=flat-square&logo=Gmail&link=sergio.flores.junior17@gmail.com)](mailto:sergio.flores.junior17@gmail.com)
 
 
 #### My Stats
