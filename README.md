@@ -1,6 +1,6 @@
 ### Hello, I'm Sergio! 👋
 
-:computer: Software Engineer at Adapcon Software & Inovação
+:computer: Software Engineer at Groundbreaker Technologies
 <br>:house_with_garden: Brazilian, Based in Jaraguá do Sul, SC
 
 <br>🌱 Currently learning Next.JS, React and GraphQL
