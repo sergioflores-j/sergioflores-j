@@ -16,4 +16,3 @@
 ![Sergio's github stats](https://github-readme-stats.vercel.app/api?username=sergioflores-j&count_private=true&show_icons=true&custom_title=Github%20Status&theme=dracula)
 <br>
 ![Sergio's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergioflores-j&layout=compact)
-![Sergio's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sergiofloresj)
