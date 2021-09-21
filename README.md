@@ -1,9 +1,8 @@
 ### Hello, I'm Sergio! 👋
 
-:computer: Software Engineer at Groundbreaker Technologies
-<br>:house_with_garden: Brazilian, Based in Jaraguá do Sul, SC
+:computer: Software Engineer at NN Group
+<br>:house_with_garden: Brazilian living in Rotterdam, NL 
 
-<br>🌱 Currently learning React, ElasticSearch and TDD.
 
 #### How to reach me
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergio-flores17/?locale=en_US)](https://www.linkedin.com/in/sergio-flores17/?locale=en_US)
